@@ -1,0 +1,30 @@
+.update-component {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .update-component h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .update-component input,
+  .update-component textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .update-component button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .update-component button:hover {
+    background-color: #45a049;
+  }
+  
